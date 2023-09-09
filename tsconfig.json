@@ -1,0 +1,7 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "extends": "@tsconfig/node18-strictest/tsconfig.json",
+
+  "compilerOptions": {},
+  "files": ["src/express-types.d.ts"]
+}
